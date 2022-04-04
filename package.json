@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "name": "web-dev-node",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sghosalkar/web-dev-node.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Shubham Ghosalkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sghosalkar/web-dev-node/issues"
+  },
+  "homepage": "https://github.com/sghosalkar/web-dev-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
